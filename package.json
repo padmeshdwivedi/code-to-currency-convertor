@@ -1,0 +1,23 @@
+{
+  "name": "currency-convertor",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padmeshdwivedi/code-to-currency-convertor.git"
+  },
+  "author": "Padmesh_Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padmeshdwivedi/code-to-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/padmeshdwivedi/code-to-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
