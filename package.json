@@ -1,6 +1,6 @@
 {
   "name": "@padmesh123/currency-convertor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npm package to convert currency using FreeCurrencyAPI.",
   "main": "index.js",
   "type": "module",
