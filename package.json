@@ -1,9 +1,9 @@
 {
   "name": "@padmeshdwivedi/currency-convertor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm package to convert currency",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
