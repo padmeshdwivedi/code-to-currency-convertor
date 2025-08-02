@@ -1,7 +1,7 @@
 {
   "name": "@padmesh123/currency-convertor",
   "version": "1.0.2",
-  "description": "An npm package to convert currency",
+  "description": "An npm package to convert currency using FreeCurrencyAPI.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,19 @@
     "type": "git",
     "url": "git+https://github.com/padmeshdwivedi/code-to-currency-convertor.git"
   },
-  "author": "Padmesh_Dwivedi",
+  "keywords": [
+    "currency-converter",
+    "convert-currency",
+    "currency-api",
+    "exchange-rate",
+    "freecurrencyapi",
+    "javascript",
+    "nodejs",
+    "async-function",
+    "npm-module",
+    "currency-utils"
+  ],
+  "author": "Padmesh Dwivedi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/padmeshdwivedi/code-to-currency-convertor/issues"
