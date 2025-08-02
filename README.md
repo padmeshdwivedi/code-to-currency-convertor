@@ -7,7 +7,7 @@ A simple and lightweight NPM package for converting currency using [FreeCurrency
 ## 📦 Installation
 
 ```bash
-npm install @padmesh/currency-convertor
+npm install @padmesh123/currency-convertor
 
 🚀 Usage
 js
